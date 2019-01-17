@@ -1,0 +1,9 @@
+C:\Users\hanif\Desktop\bystand3\ARETUM\bin\Debug\ARETUM.exe.config
+C:\Users\hanif\Desktop\bystand3\ARETUM\bin\Debug\ARETUM.exe
+C:\Users\hanif\Desktop\bystand3\ARETUM\bin\Debug\ARETUM.pdb
+C:\Users\hanif\Desktop\bystand3\ARETUM\obj\Debug\ARETUM.Form1.resources
+C:\Users\hanif\Desktop\bystand3\ARETUM\obj\Debug\ARETUM.Properties.Resources.resources
+C:\Users\hanif\Desktop\bystand3\ARETUM\obj\Debug\ARETUM.csproj.GenerateResource.cache
+C:\Users\hanif\Desktop\bystand3\ARETUM\obj\Debug\ARETUM.csproj.CoreCompileInputs.cache
+C:\Users\hanif\Desktop\bystand3\ARETUM\obj\Debug\ARETUM.exe
+C:\Users\hanif\Desktop\bystand3\ARETUM\obj\Debug\ARETUM.pdb

@@ -1,0 +1,10 @@
+C:\Users\hanif\Desktop\bystand3\TPLAN\bin\Debug\TPLAN.exe.config
+C:\Users\hanif\Desktop\bystand3\TPLAN\bin\Debug\TPLAN.exe
+C:\Users\hanif\Desktop\bystand3\TPLAN\bin\Debug\TPLAN.pdb
+C:\Users\hanif\Desktop\bystand3\TPLAN\obj\Debug\TPLAN.csprojAssemblyReference.cache
+C:\Users\hanif\Desktop\bystand3\TPLAN\obj\Debug\TPLAN.Form1.resources
+C:\Users\hanif\Desktop\bystand3\TPLAN\obj\Debug\TPLAN.Properties.Resources.resources
+C:\Users\hanif\Desktop\bystand3\TPLAN\obj\Debug\TPLAN.csproj.GenerateResource.cache
+C:\Users\hanif\Desktop\bystand3\TPLAN\obj\Debug\TPLAN.csproj.CoreCompileInputs.cache
+C:\Users\hanif\Desktop\bystand3\TPLAN\obj\Debug\TPLAN.exe
+C:\Users\hanif\Desktop\bystand3\TPLAN\obj\Debug\TPLAN.pdb

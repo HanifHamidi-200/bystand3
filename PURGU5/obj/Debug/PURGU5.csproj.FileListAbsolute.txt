@@ -1,0 +1,9 @@
+C:\Users\hanif\Desktop\bystand3\PURGU5\bin\Debug\PURGU5.exe.config
+C:\Users\hanif\Desktop\bystand3\PURGU5\bin\Debug\PURGU5.exe
+C:\Users\hanif\Desktop\bystand3\PURGU5\bin\Debug\PURGU5.pdb
+C:\Users\hanif\Desktop\bystand3\PURGU5\obj\Debug\PURGU5.Form1.resources
+C:\Users\hanif\Desktop\bystand3\PURGU5\obj\Debug\PURGU5.Properties.Resources.resources
+C:\Users\hanif\Desktop\bystand3\PURGU5\obj\Debug\PURGU5.csproj.GenerateResource.cache
+C:\Users\hanif\Desktop\bystand3\PURGU5\obj\Debug\PURGU5.csproj.CoreCompileInputs.cache
+C:\Users\hanif\Desktop\bystand3\PURGU5\obj\Debug\PURGU5.exe
+C:\Users\hanif\Desktop\bystand3\PURGU5\obj\Debug\PURGU5.pdb

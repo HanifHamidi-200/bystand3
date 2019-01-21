@@ -39,6 +39,7 @@
             this.button6 = new System.Windows.Forms.Button();
             this.button7 = new System.Windows.Forms.Button();
             this.button8 = new System.Windows.Forms.Button();
+            this.button17 = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.flowLayoutPanel3 = new System.Windows.Forms.FlowLayoutPanel();
             this.button9 = new System.Windows.Forms.Button();
@@ -48,7 +49,6 @@
             this.button13 = new System.Windows.Forms.Button();
             this.button14 = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
-            this.button17 = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.flowLayoutPanel5 = new System.Windows.Forms.FlowLayoutPanel();
             this.button11 = new System.Windows.Forms.Button();
@@ -173,6 +173,15 @@
             this.button8.Text = "SSWORD";
             this.button8.UseVisualStyleBackColor = true;
             // 
+            // button17
+            // 
+            this.button17.Location = new System.Drawing.Point(463, 3);
+            this.button17.Name = "button17";
+            this.button17.Size = new System.Drawing.Size(109, 56);
+            this.button17.TabIndex = 4;
+            this.button17.Text = "DBENCH";
+            this.button17.UseVisualStyleBackColor = true;
+            // 
             // label2
             // 
             this.label2.AutoSize = true;
@@ -260,16 +269,7 @@
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(78, 15);
             this.label4.TabIndex = 6;
-            this.label4.Text = "TrukeyMystery";
-            // 
-            // button17
-            // 
-            this.button17.Location = new System.Drawing.Point(463, 3);
-            this.button17.Name = "button17";
-            this.button17.Size = new System.Drawing.Size(109, 56);
-            this.button17.TabIndex = 4;
-            this.button17.Text = "DBENCH";
-            this.button17.UseVisualStyleBackColor = true;
+            this.label4.Text = "TurkeyMystery";
             // 
             // groupBox1
             // 
